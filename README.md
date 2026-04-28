@@ -5,7 +5,7 @@ This repository hosts an interactive 3D figure for the paper:
 **Connecting the dusty dots: dust depletion and extinction of local interstellar clouds**  
 T. Ramburuth-Hurt, A. De Cia, J.-K. Krogager, C. Ledoux, A. Fox  
 Accepted for publication in Astronomy & Astrophysics (24 April 2026)  
-arXiv: [link once you have it]
+arXiv: https://arxiv.org/abs/2604.24752
 
 <img width="442" height="248" alt="3D_labelled_map" src="https://github.com/user-attachments/assets/c6b1e534-5f8a-4caf-beba-939c455d5f6b" />
 
